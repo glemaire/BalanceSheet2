@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "IncomeStatement", "IncomeStatement\IncomeStatement.rptproj", "{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.Debug|Default.ActiveCfg = Debug
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.Debug|Default.Build.0 = Debug
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.Debug|Default.Deploy.0 = Debug
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.DebugLocal|Default.Build.0 = DebugLocal
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.Release|Default.ActiveCfg = Release
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.Release|Default.Build.0 = Release
+		{0FA6E4AE-6E7B-4C79-B3CC-DB92BAF528F8}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8DB7F5-3999-41E9-A7B9-53140CB94A71}
+	EndGlobalSection
+EndGlobal

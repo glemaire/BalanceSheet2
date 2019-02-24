@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "BalanceSheet", "BalanceSheet\BalanceSheet.rptproj", "{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.Debug|Default.ActiveCfg = Debug
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.Debug|Default.Build.0 = Debug
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.Debug|Default.Deploy.0 = Debug
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.DebugLocal|Default.Build.0 = DebugLocal
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.Release|Default.ActiveCfg = Release
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.Release|Default.Build.0 = Release
+		{45565EB3-E7FA-48D6-B7F0-F2DF37D91270}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F84D09-53E3-442F-9D6F-219FEDAA708A}
+	EndGlobalSection
+EndGlobal
