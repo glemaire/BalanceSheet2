@@ -50,10 +50,8 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
-    <DataSource Include="DataSource1.rds" />
-  </ItemGroup>
-  <ItemGroup>
     <Report Include="SH_BalanceSheet.rdl" />
+    <Report Include="SH_CashFlow.rdl" />
     <Report Include="SH_IncomeStatement.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
