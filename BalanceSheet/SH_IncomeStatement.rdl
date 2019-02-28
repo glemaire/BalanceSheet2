@@ -3229,7 +3229,7 @@
                                   <Value>=Fields!Strauss_YTD.Value</Value>
                                   <Style>
                                     <FontFamily>Calibri</FontFamily>
-                                    <Format>#,0;(#,0);'-'</Format>
+                                    <Format>'$'#,0;('$'#,0);'-'</Format>
                                     <Color>#333333</Color>
                                   </Style>
                                 </TextRun>
@@ -3249,6 +3249,7 @@
                             <PaddingRight>3pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
                             <PaddingBottom>2pt</PaddingBottom>
+                            <rd:FormatSymbolCulture>en-US</rd:FormatSymbolCulture>
                           </Style>
                         </Textbox>
                       </CellContents>

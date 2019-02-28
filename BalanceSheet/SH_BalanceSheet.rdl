@@ -111,13 +111,13 @@
                   <Width>0.86354in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>0.81146in</Width>
+                  <Width>1.00938in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>0.81146in</Width>
+                  <Width>1.01979in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>0.78021in</Width>
+                  <Width>0.97813in</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>0.05208in</Width>
@@ -914,7 +914,7 @@
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.06375in</Height>
+                  <Height>0.13666in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -5756,15 +5756,15 @@
             </SortExpressions>
             <Top>0.16264in</Top>
             <Left>0.22917in</Left>
-            <Height>2.57917in</Height>
-            <Width>12.28126in</Width>
+            <Height>2.65208in</Height>
+            <Width>12.88543in</Width>
             <Style />
           </Tablix>
         </ReportItems>
         <Height>3.03347in</Height>
         <Style />
       </Body>
-      <Width>12.51043in</Width>
+      <Width>13.1146in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>
