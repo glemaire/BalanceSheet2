@@ -5461,16 +5461,8 @@
                     <Hidden>true</Hidden>
                   </Visibility>
                 </TablixMember>
-                <TablixMember>
-                  <Visibility>
-                    <Hidden>true</Hidden>
-                  </Visibility>
-                </TablixMember>
-                <TablixMember>
-                  <Visibility>
-                    <Hidden>true</Hidden>
-                  </Visibility>
-                </TablixMember>
+                <TablixMember />
+                <TablixMember />
               </TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
@@ -5521,7 +5513,7 @@
                       </Group>
                       <SortExpressions>
                         <SortExpression>
-                          <Value>=Fields!LineItemLabel.Value</Value>
+                          <Value>=Fields!MasterAccount.Value</Value>
                         </SortExpression>
                       </SortExpressions>
                       <TablixMembers>
